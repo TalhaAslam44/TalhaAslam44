@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Talha
+## Hi there 👋 I'm Talha:
 
 <!--
 **HaiderQadri/HaiderQadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
