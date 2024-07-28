@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Talha
 
 <!--
-**HaiderQadri/HaiderQadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TalhaAslam44/TalhaAslam44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
